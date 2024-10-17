@@ -6,6 +6,9 @@
       "build_output_subfolder": "E2EArchiveTarget_1291ac96-c287-4f1a-8689-b73f8485f015",
       "locale": "en-us",
       "monikers": [],
+      "xref_query_tags": [
+        "/DocsE2EArchiveSource"
+      ],
       "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content"
@@ -16,6 +19,7 @@
   "notification_subscribers": [],
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
+  "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
   "dependent_repositories": [
     {
@@ -24,5 +28,6 @@
       "branch": "main",
       "branch_mapping": {}
     }
-  ]
+  ],
+  "need_generate_pdf_url_template": false
 }
