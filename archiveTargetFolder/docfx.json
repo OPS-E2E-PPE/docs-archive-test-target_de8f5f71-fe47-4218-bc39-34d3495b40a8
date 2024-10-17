@@ -15,8 +15,7 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices.md",
-          "SECURITY.md"
+          "ThirdPartyNotices.md"
         ]
       }
     ],
@@ -40,9 +39,13 @@
     "globalMetadata": {
       "breadcrumb_path": "~/breadcrumb/E2EArchiveTarget_1291ac96-c287-4f1a-8689-b73f8485f015/toc.yml",
       "feedback_system": "Standard",
-      "permissioned-type": "public"
+      "permissioned-type": "public",
+      "extendBreadcrumb": true,
+      "docs_archive": "tool",
+      "uhfHeaderId": "MSDocsHeader-Archive"
     },
     "fileMetadata": {},
-    "template": []
+    "template": [],
+    "markdownEngineName": "markdig"
   }
 }
